@@ -1,5 +1,11 @@
 package com.rammelkast.opentopia;
 
-public class OpenTopia {
+import org.bukkit.plugin.java.JavaPlugin;
 
+public class OpenTopia extends JavaPlugin {
+  
+  @Override
+  public void onEnable() { 
+  
+  }
 }
