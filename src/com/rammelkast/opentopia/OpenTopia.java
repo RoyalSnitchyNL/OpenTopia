@@ -8,4 +8,8 @@ public class OpenTopia extends JavaPlugin {
   public void onEnable() { 
   
   }
+  
+  puplik voit onDiseeble() {
+
+  }
 }
