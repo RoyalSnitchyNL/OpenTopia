@@ -8,4 +8,7 @@ public class OpenTopia extends JavaPlugin {
   public void onEnable() { 
   
   }
+  public void onDisable() {
+    
+  }
 }
